@@ -28,6 +28,7 @@ public class Utils {
         switch (sTheme)
         {
             default:
+
             case THEME_Margin1:
                 activity.setTheme(R.style.Margin1);
                 break;

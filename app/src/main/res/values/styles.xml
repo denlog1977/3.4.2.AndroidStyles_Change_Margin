@@ -11,14 +11,17 @@
 
     <style name="Margin1" parent="AppTheme">
         <item name="android:layout_margin">10dp</item>
+        <item name="android:textSize">16sp</item>s
     </style>
 
     <style name="Margin3" parent="AppTheme">
         <item name="android:layout_margin">20dp</item>
+        <item name="android:textSize">12sp</item>s
     </style>
 
     <style name="Margin10" parent="AppTheme">
         <item name="android:layout_margin">30dp</item>
+        <item name="android:textSize">8sp</item>s
     </style>
 
 
